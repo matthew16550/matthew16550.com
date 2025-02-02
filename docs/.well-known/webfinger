@@ -1,0 +1,9 @@
+{
+  "subject": "acct:spam@matthew16550.com",
+  "links": [
+    {
+      "rel": "http://openid.net/specs/connect/1.0/issuer",
+      "href": "https://dev-uwjhg4q8amhitdl6.au.auth0.com/"
+    }
+  ]
+}
